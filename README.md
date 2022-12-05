@@ -1,1 +1,1 @@
-# code-quiz
+# web-code-quiz
